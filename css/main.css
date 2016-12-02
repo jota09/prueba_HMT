@@ -1,0 +1,11 @@
+.formErrorContent{
+    width: 300px;
+    margin-top: 4%;
+    margin-left: 20%;
+}
+#formulario{
+    margin-top: 10%;
+}
+.boton_formulario{
+    background-color: grey;
+}
