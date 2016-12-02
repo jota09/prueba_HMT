@@ -3,7 +3,7 @@ Estructura
 	
 	-El programa cuenta con el modelo vista-controlador
 con un modulo de librerias necesarias para el jquery, bootstrap, entre otras implementacion para enriqueser el funcionamiento
-	-Se ha separado los archivos en la carpeta carpeta segun su lenguaje de codificacion JS y CSS para acceder de manera mas facil a este
+	-Se ha separado los archivos en la carpeta carpeta segun su lenguaje de codificacion (JS y CSS) para acceder de manera mas facil a estos
 	-Los index en las distintas carpetas ayudan ha inhibir la capacidad de acceso
 por entradas no validas del sistema
 	-En la carpeta BBDD se encuentra el script de esta
